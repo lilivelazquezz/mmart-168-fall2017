@@ -1,4 +1,4 @@
-//Liliana Velazquez
+//Lili Velazquez
 
 let language
 let languageCode
